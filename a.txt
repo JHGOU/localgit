@@ -1,6 +1,11 @@
 aaaaaaaaaaaaaaaaa
 ccccccccccccccccc
 ddddddddddddddddd
+<<<<<<< HEAD
 fffffffffffffffff
 aaaaaaaaaaaaaaaaa
 
+=======
+aaaaaaaaaaaaaaaaa
+11111111111111111
+>>>>>>> dev
